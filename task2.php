@@ -21,3 +21,5 @@ class Employee {
 $employee = new Employee("Alice", 5000);
 $employee->updateSalary(1000);
 $employee->getDetails();
+
+?>

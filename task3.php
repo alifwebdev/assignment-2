@@ -23,3 +23,5 @@ class Car extends Vehicle {
 
 $car = new Car("Toyota", "Corolla");
 $car->displayDetails();
+
+?>

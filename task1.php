@@ -13,3 +13,5 @@ foreach ($users as $user) {
 
     echo "Name: $name, Domain: $domain\n";
 }
+
+?>
